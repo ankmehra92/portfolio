@@ -22,13 +22,13 @@ repository               : "https://github.com/ankmehra92?tab=repositories"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ankush Mehra"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Vision Engineer"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ankmehra92@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
